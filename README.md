@@ -1,14 +1,14 @@
 
 
 <h1 align="left">
-👋 Hello World :)
+Hello World :)
 </h1>
 <div data-align="center">
 <p align="center"><img src="https://raw.githubusercontent.com/imJayanth/imJayanth/main/readme_header.png" alt="header"/></p>
 </div>
 
 <h2 align="left">
-👨‍💻 Who am I?
+Who am I?
 </h2>
 <p align="center">
 <samp>A detail-oriented and self-motivated final year student developer who works hands-on to complete extremely difficult projects using the latest technologies and with quality code and has experience and expertise in Golang & Python - design, development, testing, maintenance and documentation.
@@ -21,7 +21,7 @@
 <h3 id="databases" align="left">📋 Tools &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img  width ='24px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>&nbsp&nbsp&nbsp<img  width ='24px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>&nbsp&nbsp&nbsp<img  width ='28px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>&nbsp&nbsp&nbsp<img  width ='24px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'>&nbsp&nbsp&nbsp<img  width ='24px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/elasticsearch.svg'>&nbsp&nbsp&nbsp<img  width ='100px'  src ='https://temporal.io/images/logos/logo-temporal-with-copy.svg'></h3>
 <h3 id="databases" align="left">📋 Technologies &nbsp&nbsp&nbsp&nbsp&nbsp<img  width ='24px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'>&nbsp&nbsp&nbsp<img  width ='24px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'>&nbsp&nbsp&nbsp<img  width ='24px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'></h3>
 <hr>
-<h2>📫Connect with me </h2>
+<h2>Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/jayanth-sk'> <img width = '28px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp&nbsp;
 <a href="imjayanth08@gmail.com?subject=Hello%20Jayanth,%20From%20Github"> <img width = '64px' align= 'center' src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp&nbsp;
 <a href = 'https://www.instagram.com/jayyyyyanth/'> <img width = '28px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/instagram.svg"/></a>&nbsp&nbsp;
