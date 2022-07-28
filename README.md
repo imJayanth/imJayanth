@@ -10,8 +10,8 @@
 👨‍💻 Who am I?
 </h2>
 <p align="center">
-<samp>A detail-oriented and self-motivated final year student & Golang Developer who works hands-on to complete extremely difficult projects using the latest technologies and with quality code and has experience and expertise in Golang - design, development, testing, maintenance and documentation.
- </samp> <br> <br> <img src="https://komarev.com/ghpvc/?username=DeepanNarayanaMoorthy" alt="https://github.com/DeepanNarayanaMoorthy" />
+<samp>A detail-oriented and self-motivated final year student developer who works hands-on to complete extremely difficult projects using the latest technologies and with quality code and has experience and expertise in Golang & Python - design, development, testing, maintenance and documentation.
+ </samp> <br> <br> <img src="https://komarev.com/ghpvc/?username=imJayanth" alt="https://github.com/imJayanth" />
 </p>
 <hr>
 <h2 align="center">
@@ -36,9 +36,8 @@
 📫 Reach me on
 </h2>
 <p align="center">
-<a target="_blank"href="https://www.linkedin.com/in/deepann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>     <a href="mailto:deepan06102000@gmail.com?subject=Hello%20Deepan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>    
+<a target="_blank"href="https://www.linkedin.com/in/jayanth-sk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>     <a href="mailto:imjayanth08@gmail.com?subject=Hello%20Jayanth,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>    
 </p>
 <hr>
-<h2 align="center">
-💻 Check Out My Repos ⬇️
-</h2>
+
+
