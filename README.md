@@ -3,7 +3,7 @@
 👋
 </h1>
 <div data-align="center">
-<p align="center"><img src="https://raw.githubusercontent.com/imJayanth/imJayanth/master/readme_header.png" alt="header"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/imJayanth/imJayanth/main/readme_header.png" alt="header"/></p>
 </div>
 
 <h2 align="center">
