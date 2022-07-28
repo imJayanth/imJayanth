@@ -1,16 +1,16 @@
 
-<h1 align="center">
+<h1 align="left">
 👋
 </h1>
 <div data-align="center">
 <p align="center"><img src="https://raw.githubusercontent.com/imJayanth/imJayanth/main/readme_header.png" alt="header"/></p>
 </div>
 
-<h2 align="center">
+<h2 align="left">
 👨‍💻 Who am I?
 </h2>
 <p align="center">
-<samp>A highly resourceful software developer having expertise in Python, Java, machine learning and exposure to back- end development. I design and develop applications using the latest technologies to deliver the product with quality code. I'm a final year student pursuing Theoretical Computer Science course at PSG College of Technology.
+<samp>A detail-oriented and self-motivated final year student & Golang Developer who works hands-on to complete extremely difficult projects using the latest technologies and with quality code and has experience and expertise in Golang - design, development, testing, maintenance and documentation.
  </samp> <br> <br> <img src="https://komarev.com/ghpvc/?username=DeepanNarayanaMoorthy" alt="https://github.com/DeepanNarayanaMoorthy" />
 </p>
 <hr>
